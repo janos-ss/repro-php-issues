@@ -1,3 +1,3 @@
 <?php
 
-echo "yet another random line"
+echo "yet another random line";
